@@ -1,0 +1,38 @@
+body{
+    
+   background-color: #1746A2;
+
+}
+
+.col-md-5 {
+    background-color: white;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+
+
+input {
+    margin-top: 30px;
+
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.success {
+    border: 3px solid green !important;
+}
+
+.error {
+    border: 3px solid red !important;
+}
+
+
+small {
+    color:  red;
+    font-weight: bold;
+    float: left;
+}
